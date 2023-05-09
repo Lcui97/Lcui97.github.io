@@ -19,3 +19,5 @@ Lab 8 was another favorite of mine. This lab taught us how to create ASCII art u
 * Lab 12
 
 Lab 12 was by far the most interesting. This lab taught us how to output a .gif file to create a sort of “flipbook” style image which takes the form of an animated color-changing gradient. Understanding how the effect is achieved through code was mind-blowing!
+
+![This the the gadient image produced in lab 10](images/diff.png)
